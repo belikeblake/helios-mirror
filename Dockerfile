@@ -1,4 +1,5 @@
-FROM anasty17/mltb:heroku
+FROM istareatotherscode2/lasirenaftw:h2
+
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
