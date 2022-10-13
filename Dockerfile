@@ -1,4 +1,5 @@
-FROM istareatotherscode2/lasirenaftw:h2
+FROM codewithweeb/weebzone:stable
+
 
 
 WORKDIR /usr/src/app
