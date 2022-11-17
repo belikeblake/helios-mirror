@@ -1,4 +1,4 @@
-FROM codewithweeb/weebzone:stable
+FROM elricariocco/weebzone:stable
 
 
 
