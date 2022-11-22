@@ -26,3 +26,4 @@ requests
 megasdkrestclient
 qbittorrent-api
 yt-dlp
+speedtest-cli
